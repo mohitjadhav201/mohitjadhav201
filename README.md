@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a 'https://www.linkedin.com/in/mohit-jadhav-9a619517a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ chetan-salunke-48b732209" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chetansalunke352000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetansalunke352000@gmail.com" height="30" width="40" /></a>
+<a 'https://www.linkedin.com/in/mohit-jadhav-9a619517a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.hackerrank.com/mohitjadhav201?hr_r=1" height="30" width="40" /></a>target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chetansalunke352000@gmail.com" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
