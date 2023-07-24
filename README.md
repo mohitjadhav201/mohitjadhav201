@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a Investment Predictions project<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python Programming  and MySQL<br>💬 Ask me about  Data Science And Machine Learning.
+🔭 I’m currently working on a Investment Predictions project<br>🌱 I’m currently learning Python Programming  and MySQL<br>💬 Ask me about  Data Science And Machine Learning.
 
 
 ## 🌐 Socials:
