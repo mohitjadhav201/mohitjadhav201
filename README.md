@@ -1,4 +1,4 @@
-##Hello there! Welcome to my GitHub profile. Feel free to explore and discover the various projects and contributions I've been a part of. If you have any questions or would like to connect, don't hesitate to reach out. Excited to share and learn together in this amazing community! 👋🌟
+# Hello there! Welcome to my GitHub profile. Feel free to explore and discover the various projects and contributions I've been a part of. If you have any questions or would like to connect, don't hesitate to reach out. Excited to share and learn together in this amazing community! 👋🌟
 
 ## 💫 A Little About Me:
 🔭 I'm currently engrossed in an exciting Investment Predictions project.<br>🌱 My current intellectual pursuits revolve around advanced techniques in Data Science and Machine Learning.<br>💬 Feel free to engage me in insightful conversations about Data Science, Machine Learning, or any related topics!<br>📫 You can easily reach me at **mohitjadhav201@gmail.com**
