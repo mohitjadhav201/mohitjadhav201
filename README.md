@@ -1,7 +1,6 @@
-# Hi there 👋 I'm  Mohit
-# 💫 About Me:
-🔭 I’m currently working on a Investment Predictions project<br>🌱 I’m currently learning Python Programming  and MySQL<br>💬 Ask me about  Data Science And Machine Learning<br>📫 How to reach me **mohitjadhav201@gmail.com**
-
+Hi Mohit! 👋 Nice to meet you!
+💫 A Little About Me:
+🔭 I'm currently engrossed in an exciting Investment Predictions project.<br>🌱 My current intellectual pursuits revolve around advanced techniques in Data Science and Machine Learning.<br>💬 Feel free to engage me in insightful conversations about Data Science, Machine Learning, or any related topics!<br>📫 You can easily reach me at mohitjadhav201@gmail.com
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
