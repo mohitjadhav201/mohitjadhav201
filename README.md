@@ -3,7 +3,10 @@
 # Welcome to my GitHub profile👋🌟
 
 ## 💫 A Little About Me:
-🔭 I'm currently engrossed in an exciting Investment Predictions project.<br>🌱 My current intellectual pursuits revolve around advanced techniques in Data Science and Machine Learning.<br>💬 Feel free to engage me in insightful conversations about Data Science, Machine Learning, or any related topics!<br>📫 You can easily reach me at **mohitjadhav201@gmail.com**
+🔭 Right now, I'm really focused on an exciting project where I predict investments.
+🌱 I'm currently interested in learning more about advanced methods in Data Science and Machine Learning.
+💬 I'm open to having interesting discussions about topics like Data Science, Machine Learning, and related subjects!
+📫 If you want to get in touch, you can reach me at mohitjadhav201@gmail.com,write this in the form of github code
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
