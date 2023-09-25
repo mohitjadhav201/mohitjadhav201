@@ -24,12 +24,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" /></a>
 </p>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohitjadhav201&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&hide=most_used_language)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohitjadhav201&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjadhav201&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohitjadhav201&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
